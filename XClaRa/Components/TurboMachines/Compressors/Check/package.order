@@ -1,0 +1,6 @@
+Test_CompressorGas_L1_simple
+Test_CompressorGas_L1_affinity
+Test_MassFlow_VIGVControlled
+Test_CompressorGas_L1_stageStacked
+Test_CompressorGas_L1_stageStacked_singleStage
+Test_CompressorVLE_L1_stageStacked

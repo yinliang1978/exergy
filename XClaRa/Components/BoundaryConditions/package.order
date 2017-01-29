@@ -1,0 +1,16 @@
+Check
+BoundaryVLE_hxim_flow
+BoundaryVLE_Txim_flow
+BoundaryVLE_phxi
+BoundaryVLE_pTxi
+BoundaryGas_Txim_flow
+BoundaryGas_pTxi
+BoundaryFuel_Txim_flow
+BoundaryFuel_pTxi
+BoundarySlag_Tm_flow
+BoundarySlag_pT
+PrescribedMassFlowVLE
+PrescribedHeatFlow
+PrescribedHeatFlowScalar
+GasCompositionByMassFractions
+GasCompositionByVolFractions
